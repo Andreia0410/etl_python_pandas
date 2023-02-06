@@ -2,7 +2,7 @@ Projeto de ETL com Jupyter Notebook.
 
 Objetivo do projeto
 
-	Projeto de ETL com o propósito de exemplificar e demonstrar alguns conceitos básicos da 
+Projeto de ETL com o propósito de exemplificar e demonstrar alguns conceitos básicos da 
 linguagem de programação Python, uma pequena demonstração de quando e como aplicamos o processo de ETL 
 em um DataFrame e algumas bibliotecas simples voltadas para ciência de dados, mas que podem ser usadas 
 no dia a dia de um engenheiro de dados, pois os conceitos são basicamente os mesmos.
