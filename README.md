@@ -13,7 +13,7 @@ Ferramentas e tecnologias usadas
 	2. Biblioteca Pandas
 	3. Biblioteca Matplotilib
 	4. Biblioteca Requests 
-	5. SQLite
+	5. SQL Alchemy
 	6. Jupyter Notebook
 
 Usabilidade
